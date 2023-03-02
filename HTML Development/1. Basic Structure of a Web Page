@@ -28,5 +28,5 @@ Enter your name: <input type="text" id="fname" onchange="myFunction()">
 </body>
 
 </html>
-git commit --amend "<.>"
+git commit --amend -m "<.>"
 
