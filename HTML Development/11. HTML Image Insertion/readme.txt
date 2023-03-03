@@ -6,10 +6,15 @@ Two types of image insertions are:
  
  Here, we are inserting 3 images names mentioned inside the double inverted commas " " 
 
- 1) "RTH.jpg" & 2) "EA.jpg" through Relative File Refeerencing which are saved in my local desktop folder named HTMLproject. 
- 3) "https://th.bing.com/th/id/OIP.PNkjnBlLtONPJExZLvpLggHaFj?w=247&h=185&c=7&r=0&o=5&dpr=1.5&pid=1.7.jpg" through Absolute File referencing hence the source/ image link is copied from a website and pasted in the code.
+ 1) "RTH.jpg" &
+ 
+ 2) "EA.jpg" through Relative File Referencing which are saved in my local desktop folder named HTMLproject. 
+ 
+ 3) "https://th.bing.com/th/id/OIP.PNkjnBlLtONPJExZLvpLggHaFj?w=247&h=185&c=7&r=0&o=5&dpr=1.5&pid=1.7.jpg" through Absolute File Referencing hence the source/ image link is copied from a website and pasted in the code.
   
- For Image Insertion the part of the code to refer is mentioned below:
+
+
+For Image Insertion the part of the code to refer is mentioned below:
  
 <h1> Earth pictures </h1>
 
@@ -24,6 +29,9 @@ Two types of image insertions are:
 
 </p>
 
+You can insert image on the webpage through the <embed>...</embed> tag or through <img> tag which is a self closing tag and its attributes are 
+src= source of the image 
+width & height.
  
   
   
