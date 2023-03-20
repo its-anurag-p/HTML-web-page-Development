@@ -1,6 +1,16 @@
 The syntax for the tag used to embed an video is as follows:
 <video> src=" " </video> OR <embed> src=" " </embed>
 
+The part of the code to refer for video embedding is:
+
+<p>
+<video width="100" controls>
+   <source src="xd.mp4" type="video/mp4">
+   Your browser does not support the video tag.
+</video>
+</p>
+
+
 Here, the attributes are...
 
 src which means source is the required attribute which specifies the source of the embedded video. Here, i've used (xd.mp4) a demo video and it is saved in the corresponding folder of the project. Make sure to save the video in the same directory that you have saved the HTML file into. 
