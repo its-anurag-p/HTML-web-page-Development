@@ -7,3 +7,5 @@ Line 19: <td align="right">$100</td>
 
 Line 15: <td align="center">$100</td>
 ...aligns the value to the center.
+
+ The no wrap attribute is used to mention all all text in a single line.
