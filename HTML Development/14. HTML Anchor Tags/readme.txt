@@ -27,7 +27,9 @@ The ... part represents the code for the anchor tags which is explained as follo
 Here, the anchor tag is implemented for list contents under heading <h1> which can be initiated through a paragraph <p> tag 
 An unordered list <ul> is used as it uses bullets by default as the marker but an ordered list uses numbers by default.
 Then list <list> tag is used to list the contents
+Including a number/ #tag will check for an corresponding id so it redirects you to the proper place.
 
 <p><h1><a id="article1">Article 1</a></h1></p>
 
+This part of the code is included in the heading of the actual content. id is an important attribute.
 
