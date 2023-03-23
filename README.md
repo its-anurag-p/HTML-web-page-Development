@@ -1,4 +1,4 @@
-# HTML-Basics-through-Creating-a-Webpage
+# HTML-web page-Development
 This Repository helps you understand the basics of HTML and also to create your first Webpage!
 You can see the live version of the final code here: https://cyient.w3spaces.com/BasicWebPage/test2.html
 
