@@ -6,4 +6,4 @@ Refer readme.txt file in each folder which contains information to read for the 
 
 
 
-<img width="337" alt="Screenshot_20230203_061212" src="https://user-images.githubusercontent.com/91464100/229289441-c4c373ac-cae6-4954-8259-1435825f1c95.png">
+<img width="1280" alt="gitproj html readme" src="https://user-images.githubusercontent.com/91464100/229290613-1d0c4a4d-cf4b-41fc-a765-15cd436825f7.png">
