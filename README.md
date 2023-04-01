@@ -4,3 +4,6 @@ You can see the live version (Resultant for each section of HTML Development fol
 
 Refer readme.txt file in each folder which contains information to read for the corresponding .html file in same folders. Follow folders as per updated number order to understand the project efficiently.
 https://user-images.githubusercontent.com/91464100/229289441-c4c373ac-cae6-4954-8259-1435825f1c95.png
+
+
+<img width="337" alt="Screenshot_20230203_061212" src="https://user-images.githubusercontent.com/91464100/229289441-c4c373ac-cae6-4954-8259-1435825f1c95.png">
